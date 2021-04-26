@@ -1,0 +1,23 @@
+{
+  "name": "space-shooter",
+  "version": "1.0.0",
+  "description": "This is a space shooter game. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelynPNjeri/SpaceShooter.git"
+  },
+  "keywords": [
+    "Space-Shooter",
+    "Video-Game"
+  ],
+  "author": "KelynNjeri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KelynPNjeri/SpaceShooter/issues"
+  },
+  "homepage": "https://github.com/KelynPNjeri/SpaceShooter#readme"
+}
